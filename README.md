@@ -10,17 +10,27 @@
 ### No. of Units: 3 Units
 ### Prerequisite: [None](https://www.youtube.com/watch?v=KyUVo8ijZ98)
 
-## Course Description
+## 🧠 Overview
 
 This repository contains resources and projects related to the subject "GEITE01X LIVING IN THE I.T. ERA" in computer science. This course explores the impact of information technology on modern society, including the benefits and challenges of living in a digital age.
 
-## Course Objectives
--------------------
+## 📋 Table of Contents
 
-* Understand the evolution of information technology and its impact on society
-* Analyze the benefits and challenges of living in a digital age
-* Develop critical thinking skills to evaluate the ethical implications of IT on individuals and society
-* Explore the role of IT in shaping the future of work, education, and communication
+- [Introduction](#-introduction)
+- [Usage](#-usage)
+- [KeyFeatures](#-key-features)
+- [Lesson](#-lesson) 
+- [Folder Structure](#-folder-structure)
+- [Contributing](#-contributing) 
+- [License](#-license)
+- [Changelogs](#-changelogs)
+
+## 🚀 Key Features
+
+* **Understand** the evolution of information technology and its impact on society
+* **Analyze** the benefits and challenges of living in a digital age
+* **Develop** critical thinking skills to evaluate the ethical implications of IT on individuals and society
+* **Explore** the role of IT in shaping the future of work, education, and communication
 
 ## Repository Contents
 ----------------------
@@ -42,12 +52,11 @@ This repository contains the following resources:
 -->
   
 ## Contributing
----------------
 
 Contributions to this repository are welcome! If you have any suggestions or resources to share, please submit a pull request or issue.
 
 ## License
-----------
+
 
 This repository is licensed under the [MIT License](LICENSE).
 
