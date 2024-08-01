@@ -32,8 +32,7 @@ This repository contains resources and projects related to the subject "GEITE01X
 * **Develop** critical thinking skills to evaluate the ethical implications of IT on individuals and society
 * **Explore** the role of IT in shaping the future of work, education, and communication
 
-## Repository Contents
-----------------------
+# 💫 Repository Contents
 
 This repository contains the following resources:
 
@@ -51,9 +50,10 @@ This repository contains the following resources:
 * **Project 3: Future of Work** - Design a system or application that addresses the challenges of the future of work
 -->
   
-## Contributing
-
-Contributions to this repository are welcome! If you have any suggestions or resources to share, please submit a pull request or issue.
+# 🏆 Contributing
+```
+coming soon...
+```
 
 ## License
 
