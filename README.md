@@ -4,10 +4,13 @@
 
 # 💫 GEITE01X - LIVING IN THE I.T. ERA
 
-
+### Name: [Jay Arre Talosig](https://github.com/flexycode)  
+### Subject & Section: GEITE01X - TBA 
+### Professor: TGA     
+### No. of Units: 3 Units
+### Prerequisite: [None](https://www.youtube.com/watch?v=KyUVo8ijZ98)
 
 ## Course Description
---------------------
 
 This repository contains resources and projects related to the subject "GEITE01X LIVING IN THE I.T. ERA" in computer science. This course explores the impact of information technology on modern society, including the benefits and challenges of living in a digital age.
 
