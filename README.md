@@ -29,6 +29,8 @@ This repository contains resources and projects related to the subject "GEITE01X
 
 ## 🛸 Introduction
 
+Welcome to the "GEITE01X - Living in the I.T Era" repository! This collection of code and resources is dedicated to the educational exploration of Living in the I.T Era.
+
 ## 👷 Usage
 
 ## 🚀 Key Features
