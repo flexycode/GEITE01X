@@ -100,4 +100,18 @@ This project is provided "as is" without warranty of any kind, express or implie
 Professor Jensen background profile coming soon...
 ```
 
+# 📫 Changelogs
+
+```
+## [8.0.0] - 2024-08-05      
+### Added  
+- ✨ Coming Soon
+- ✨ Coming Soon
+
+### Changed
+- ✨ Coming Soon
+
+### Fixed 
+- ✨ Coming Soon
+```
 
