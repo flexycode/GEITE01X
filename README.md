@@ -33,6 +33,8 @@ Welcome to the "GEITE01X - Living in the I.T Era" repository! This collection of
 
 ## 👷 Usage
 
+The course "Living in the I.T. Era" is a broad and versatile topic that can be applied to various aspects of life, education, and career development
+
 ## 🚀 Key Features
 
 * **Understand** the evolution of information technology and its impact on society
@@ -92,6 +94,10 @@ The National University of Manila License grants permission to students of the N
 This project is provided "as is" without warranty of any kind, express or implied. The National University of Manila and the project contributors disclaim any liability or responsibility for any direct, indirect, incidental, special, exemplary, or consequential damages arising out of the use or misuse of this project.
 
 ## Acknowledgments
-------------------
 
-This repository was created by [Your Name] for the GEITE01X LIVING IN THE I.T. ERA course.
+### ✨ Professor TBA 
+```
+Professor Jensen background profile coming soon...
+```
+
+
