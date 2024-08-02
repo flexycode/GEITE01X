@@ -64,7 +64,24 @@ This course project repository is licensed under the [MIT License and National U
 -->
 
 
-This repository is licensed under the [MIT License](LICENSE).
+## National University of Manila License   
+
+The National University of Manila License grants permission to students of the National University of Manila to use, modify, and distribute this project for educational purposes within the scope of their coursework and assignments.
+
+### Usage 
+
+- You may use this project as a reference or learning material for your studies at the National University of Manila.
+- You may modify the project to suit your educational needs and requirements.
+- You may share the project with your fellow students or instructors for educational purposes.
+
+### Restrictions
+
+- You may not use this project for commercial purposes.
+- You may not redistribute or publish this project outside the National University of Manila without explicit permission.
+
+## Disclaimer
+
+This project is provided "as is" without warranty of any kind, express or implied. The National University of Manila and the project contributors disclaim any liability or responsibility for any direct, indirect, incidental, special, exemplary, or consequential damages arising out of the use or misuse of this project.
 
 ## Acknowledgments
 ------------------
