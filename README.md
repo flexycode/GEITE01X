@@ -1,6 +1,8 @@
 <!-- Background github cover with short introduction down below 
 <img src="https://github.com/flexycode/CCDATRCL/blob/main/assets/DataStructureandAlgorithmv1.png" />
 -->
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/Theropodr/Theropodr/blob/main/assets/RavenVanillaPhoenix.jpg" />
 
 # 💫 GEITE01X - LIVING IN THE I.T. ERA
 
@@ -24,6 +26,10 @@ This repository contains resources and projects related to the subject "GEITE01X
 - [Contributing](#-contributing) 
 - [License](#-license)
 - [Changelogs](#-changelogs)
+
+## 🛸 Introduction
+
+## 👷 Usage
 
 ## 🚀 Key Features
 
