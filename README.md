@@ -55,7 +55,13 @@ This repository contains the following resources:
 coming soon...
 ```
 
-## License
+# 🔑 License
+```
+coming soon...
+```
+<!-- 
+This course project repository is licensed under the [MIT License and National University](https://github.com/flexycode/CCDATRCL/blob/main/LICENSE) 
+-->
 
 
 This repository is licensed under the [MIT License](LICENSE).
