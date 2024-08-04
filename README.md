@@ -8,7 +8,7 @@
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)  
 ### Subject & Section: GEITE01X - TBA 
-### Professor: TGA     
+### Professor: Katherine L. Calunod & Jennifer D. Regala     
 ### No. of Units: 3 Units
 ### Prerequisite: [None](https://www.youtube.com/watch?v=KyUVo8ijZ98)
 
