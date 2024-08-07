@@ -7,8 +7,8 @@
 # 💫 GEITE01X - LIVING IN THE I.T. ERA
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)  
-### Subject & Section: GEITE01X - TBA 
-### Professor: Katherine L. Calunod & Jennifer D. Regala     
+### Subject & Section: GEITE01X - COM231 
+### Professor: Katherine L. Calunod   
 ### No. of Units: 3 Units
 ### Prerequisite: [None](https://www.youtube.com/watch?v=KyUVo8ijZ98)
 
