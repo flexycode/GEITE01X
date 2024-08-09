@@ -1,9 +1,9 @@
-<!-- Background github cover with short introduction down below 
-<img src="https://github.com/flexycode/CCDATRCL/blob/main/assets/DataStructureandAlgorithmv1.png" />
--->
 <!-- Background github cover with short introduction down below -->
-<img src="https://github.com/Theropodr/Theropodr/blob/main/assets/RavenVanillaPhoenix.jpg" />
+<img src="https://github.com/flexycode/GEITE01X/blob/main/assets/Living-in-the-IT-ERA.png" />
 
+<!-- Background github cover with short introduction down below 
+<img src="https://github.com/Theropodr/Theropodr/blob/main/assets/RavenVanillaPhoenix.jpg" />
+-->
 # 💫 GEITE01X - LIVING IN THE I.T. ERA
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)  
