@@ -39,6 +39,26 @@ Additionally, the course will explore the ethical, social, and legal challenges 
 
 The course "Living in the I.T. Era" is a broad and versatile topic that can be applied to various aspects of life, education, and career development
 
+At the end of this course, the student will be able to:
+* **Develop** a comprehensive understanding of information technology
+concepts, principles, and practices;
+* **Analyze** and apply information technology theories to solve realworld problems;
+* **Demonstrate** 21st century skills in the application of information
+technology to various endeavors;
+* **Cultivate** a positive attitude towards the use and impact of
+information technology in the modern society;
+* **Appreciate** the ethical considerations and societal implications of
+technology;
+* **Share** learned insights and appreciation on information technology
+in everyday life;
+* **Show** increased awareness and responsibility in digital interactions;
+* **Acquire** practical skills in utilizing various information technology
+tools and platforms;
+* **Demonstrate** proficiency in handling software and hardware;
+* **Perform** tasks effectively and efficiently with peers;
+* **Perform** tasks requiring both precision and efficiency, enhancing
+technical capabilities. 
+
 ## 🚀 Key Features
 
 * **Understand** the evolution of information technology and its impact on society
@@ -107,16 +127,17 @@ Professor Jensen background profile coming soon...
 # 📫 Changelogs
 
 ```
-## [8.0.0] - 2024-08-05      
+## [8.0.0] - 2024-08- [05-09]      
 ### Added  
-- ✨ Coming Soon
-- ✨ Coming Soon
+- ✨ Added Course Content
+- ✨ Create Github repo for GEITE01X
+- ✨ Add Activity number 1
 
 ### Changed
-- ✨ Coming Soon
+- ✨ Changes in Usage 
 
 ### Fixed 
-- ✨ Coming Soon
+- ✨ Fix and update changelogs
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
