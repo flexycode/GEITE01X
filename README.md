@@ -31,6 +31,10 @@ This repository contains resources and projects related to the subject "GEITE01X
 
 Welcome to the "GEITE01X - Living in the I.T Era" repository! This collection of code and resources is dedicated to the educational exploration of Living in the I.T Era.
 
+This course offers a comprehensive introduction to information technology (IT), emphasizing its significant influence in modern society. Students will delve into core information technology concepts, including the various types of hardware, software, and networking systems.
+
+Additionally, the course will explore the ethical, social, and legal challenges posed by information technology, equipping students with the knowledge to effectively engage with the digital world.
+
 ## 👷 Usage
 
 The course "Living in the I.T. Era" is a broad and versatile topic that can be applied to various aspects of life, education, and career development
