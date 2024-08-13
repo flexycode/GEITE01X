@@ -142,8 +142,8 @@ Professor Jensen background profile coming soon...
 ## [8.2.3] - 2024-08- [13-16]      
 ### Added  
 - ✨ Added Course Content for the 2nd Week
-- ✨ Coming Soon
-- ✨ Coming Soon
+- ✨ Added PDF topic for today August 13
+- ✨ Added Activity Quiz and Quiz recap 60/100
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
