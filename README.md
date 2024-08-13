@@ -35,6 +35,21 @@ This course offers a comprehensive introduction to information technology (IT), 
 
 Additionally, the course will explore the ethical, social, and legal challenges posed by information technology, equipping students with the knowledge to effectively engage with the digital world.
 
+# 💻 Lesson 
+
+### Course Outline / Course Content
+
+| WEEK | COURSE OUTCOMES | TOPIC | OUTCOMES TOPICS | METHODOLOGY | RESOURCES | ASSESSMENT |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Orientation on National University VMGs, Core Values, GAINs and Class Policies |  |  |  |  |  |
+| 2 | CO1, CO2, CO3, CO4, CO6 | Use the various roles of information technology in addressing real world problems | CHAPTER 1: SECTION 1: INTRODUCTION TO INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) | 1.1.A. Overview of ICT: ICT Overview, Understanding IT and its role in modern society, Definition of IT and ICT | History Exploration, Group Discussion, & Video Watching | PowerPoint slides, Completed Worksheet & Group Presentation |
+| 3-4 | CO1, CO4, CO6, CO8, CO9, CO10, CO11 | Apply the concepts of web and internet to real-life situations | SECTION 2: THE WEB AND THE INTERNET | 1.2.A. The Web: Major Protocol Accessible on the Web, Anatomy of URL, Types of Browsers, How to use web browser | Lecture, Discussion/Demonstration, Small Group Exercises | Small group sharing of ideas and experience, Worksheets, PowerPoint Slides, Resource |
+| 5 | CO1, CO2, CO3, CO4, CO5, CO7, CO8, CO9 | Apply various current trends to make sound decisions and make recommendations of real-life phenomena | CHAPTER 2: DIGITAL TECHNOLOGY AND SOCIAL CHANGE | 2.A. Current Trends: Hyper automation, Mult experience, Democratization, Human Augmentation, Data Policing, Machine Learning, Robotic Process, Block Chain, Voice Search, Analytics | Guided Discussion & Group Exercises, Small-group Case Study | Worksheets, PowerPoint Slides, Resource, Sample Cases |
+| 6-7 | CO1-CO9 | Midterm Examination |  |  |  |  |
+| 8-12 | CO3, CO8, CO10, CO11 | Use the concepts of artificial intelligence in one’s life | CHAPTER 3: PRACTICAL IT SKILLS | 4A. Artificial Intelligence (AI): Introduction to AI, Core Concepts of AI, Applications of AI | Lecture, Discussion/Demonstration, Computer Simulation of Procedures | Quiz, Group Vlog Project/Group Programming Project |
+| 13.5 | CO1-CO11 | Finals Week |  |  |  |  |
+
+
 ## 👷 Usage
 
 The course "Living in the I.T. Era" is a broad and versatile topic that can be applied to various aspects of life, education, and career development
