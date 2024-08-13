@@ -127,7 +127,7 @@ Professor Jensen background profile coming soon...
 # 📫 Changelogs
 
 ```
-## [8.0.0] - 2024-08- [05-09]      
+## [8.1.5] - 2024-08- [05-09]      
 ### Added  
 - ✨ Added Course Content
 - ✨ Create Github repo for GEITE01X
@@ -138,6 +138,12 @@ Professor Jensen background profile coming soon...
 
 ### Fixed 
 - ✨ Fix and update changelogs
+
+## [8.2.3] - 2024-08- [13-16]      
+### Added  
+- ✨ Added Course Content for the 2nd Week
+- ✨ Coming Soon
+- ✨ Coming Soon
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
