@@ -174,6 +174,10 @@ Professor Jensen background profile coming soon...
 ### Added  
 - ✨ Added PETA 3 fir ITE
 
+## [10.0.1] - 2024-10-[15-18]      
+### Added  
+- ✨ Submitted PETA 3 for ITE
+
 🧊 Living in the I.T Era
 ```
 
